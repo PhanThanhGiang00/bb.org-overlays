@@ -29,9 +29,9 @@
 			P8_18_pinmux { status = "disabled"; };	/* gpmc_clk.mmc2_clk */
 
 			//Audio...
-			P9_28_pinmux { status = "disabled"; };
-			P9_29_pinmux { status = "disabled"; };
-			P9_31_pinmux { status = "disabled"; };
+			//P9_28_pinmux { status = "disabled"; };
+			//P9_29_pinmux { status = "disabled"; };
+			//P9_31_pinmux { status = "disabled"; };
 		};
 	};
 
